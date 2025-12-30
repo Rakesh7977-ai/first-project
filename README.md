@@ -1,4 +1,5 @@
 # first-project
 This is my first Git Repository.
 <br>
-Author - Rakesh chauhan
+Author - Rakesh (first git repo)
+
