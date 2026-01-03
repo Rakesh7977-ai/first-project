@@ -1,5 +1,5 @@
 
-        #strings and conditions
+#         #strings and conditions
 
 # str1 = "Rakesh"
 # str2 = "Chauhan"
@@ -14,12 +14,12 @@
 # print(final_str2)
 
 
-        # indexing starts with whole number in python
+#        # indexing starts with whole number in python
 
 # str = "Rakesh chauhan"
 # print(str[5])
 
-        #Sliceing in python for ML learning
+#         #Sliceing in python for ML learning
 
 # str = "Rakesh chavan"
 # print(str[0:6])
@@ -31,7 +31,7 @@
 # str2 = "apple"
 # print(str2[-8:-2])
 
-        #str function
+#         str function
 
 # str = "i am a hacker"
 # print(str.endswith("er"))
@@ -51,7 +51,7 @@
 # str = "heei$bbwhb4SS$WUSH$"
 # print(str.find("$"))
 
-        #Conditional statement
+#         Conditional statement
 
 # age = 15
 # if(age >= 18):
@@ -95,18 +95,18 @@
 #     print("D grade")
 
 
-        #nesting
+#         #nesting
 
-age2 = 76
+# age2 = 76
 
-if(age2 >= 18):
-    if(age2 >= 80):
-        print("cannot drive")
-    else:
-        print("can drive")
+# if(age2 >= 18):
+#     if(age2 >= 80):
+#         print("cannot drive")
+#     else:
+#         print("can drive")
     
-else:
-    print("not eligable")
+# else:
+#     print("not eligable")
 
 
 
