@@ -110,6 +110,79 @@
 
 
 
+                        # LIST AND TRUPLE IN PYTHON
 
 
+# marks = [10, 22.3, 83.3, 72.4, 93.9]
+# print(marks[0])
+
+# print(marks)
+
+# print(type(marks))
+
+
+# student = ["Rakesh", 73.4, "Grade b"]
+# print(student[0])
+
+
+# student[0] = "Ayush"
+# print(student)
+
+#             #List Method
+
+# list = [1, 2, 3,]
+# list.append(4)
+# print(list)
+
+# list.sort(reverse=True)
+# print(list)
+
+# list.sort()
+
+# print(list)
+
+# list.insert(1,10)
+# print(list)
+
+
+# list.remove(1)
+# print(list)
+
+
+# ##tuples
+
+# tup = (12, 2, 22, 32, 23)
+# print(type(tup))
+
+# print(tup[1])
+
+# print(tup.index(22))
+
+
+# movies = []
+
+# mov1 = input("enter 1st movie: ")
+# mov2 = input('enter 2nd movie: ')
+# mov3 = input("enter 3rd movie: ")
+
+# movies.append(mov1)
+# movies.append(mov2)
+# movies.append(mov3)
+# print(movies)
+
+
+list = [1,3, 4]
+copy_list = list.copy()
+
+copy_list.reverse()
+
+if(copy_list == list):
+    print("palindrom")
+else:
+    print("not palindrom")    
+
+
+grade = ["A", "B", "A", "D"]    
+grade.sort()
+print(grade)
 
