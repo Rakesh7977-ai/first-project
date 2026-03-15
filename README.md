@@ -14,3 +14,8 @@ def generate_text(prompt):
     out = generator(prompt, max_length=120)
     return out[0]['generated_text']
     
+# Try simple prompts — edit the text inside the quotes
+prompt = "Summarize this in one sentence: Machine learning helps computers learn from data."
+result = generate_text(prompt)
+print("Prompt:", prompt)
+print("\nModel says:\n", result)
