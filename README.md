@@ -84,3 +84,21 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Indian stock market is influenced by company results, news, sector strength, and global markets.
+Reliance operates in oil, telecom, retail, and digital services.
+Banking stocks depend on interest rates, credit growth, and RBI policy.
+IT stocks depend on global demand and US market movement.
